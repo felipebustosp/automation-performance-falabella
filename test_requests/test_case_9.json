@@ -1,0 +1,32 @@
+[
+    {
+      "id": 11,
+      "username": "condorito",
+      "firstName": "Condorito",
+      "lastName": "Pajaro",
+      "email": "condorito@mail.com",
+      "password": "yayita111",
+      "phone": "22345765",
+      "userStatus": 1
+    },
+  {
+      "id": 12,
+      "username": "yayita",
+      "firstName": "Yayita",
+      "lastName": "Pajaro",
+      "email": "yayita@mail.com",
+      "password": "yayita111",
+      "phone": "22345765",
+      "userStatus": 1
+    },
+  {
+      "id": 13,
+      "username": "cone",
+      "firstName": "Cone",
+      "lastName": "Pajaro",
+      "email": "cone@mail.com",
+      "password": "cone123",
+      "phone": "22345765",
+      "userStatus": 1
+    }
+  ]

@@ -1,0 +1,18 @@
+{
+    "id": 2,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Cholito",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "dog"
+      }
+    ],
+    "status": "available"
+  }
